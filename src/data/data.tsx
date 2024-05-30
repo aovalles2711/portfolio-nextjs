@@ -85,9 +85,10 @@ export const heroData: Hero = {
  */
 export const aboutData: About = {
   profileImageSrc: profilepic,
-  description: `Use this bio section as your way of describing yourself and saying what you do, what technologies you like
-  to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing
-  in.`,
+  description: `Experience utilizing MS Project and Smartsheet for Project Management, Power BI and Tableau for
+  Metrics. Additional skills include Bug Tracking with JIRA. Scripting Languages include Python, Flask,
+  SQL, HTML, QA Compliance, Database Management (Perforce), Repository (Git/GitHub), Design
+  Drawing Implementation & Review, Cross-Functional Grouping and Customer Relations.`,
   aboutItems: [
     {label: 'Location', text: 'Austin, TX', Icon: MapIcon},
     {label: 'Interests', text: 'Good Coffee, Good Food, Family & Friends, Olympic Weightlifting, Coding', Icon: SparklesIcon},
