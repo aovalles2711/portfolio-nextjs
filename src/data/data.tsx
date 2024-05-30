@@ -171,9 +171,9 @@ export const skills: SkillGroup[] = [
  */
 export const portfolioItems: PortfolioItem[] = [
   {
-    title: 'Netflix Clone',
+    title: 'StreamFlix - Netflix Clone',
     description: '"Creating a clone of Netflix with functionality that includes the ability to sign up, login, and store favorite movies. Using TMDB API for the most recent TV & Movie releases, and Firebase for cloud storing of login credentialing. Lastly, the front-end is styled with Tailwind CSS to showcase seamless practicality."',
-    url: 'https://netflix-clone-firebase.netlify.app/',
+    url: 'https://shareflixfirebase.netlify.app/',
     image: portfolioImage12,
   },
   {
