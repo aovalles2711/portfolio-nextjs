@@ -179,7 +179,7 @@ export const portfolioItems: PortfolioItem[] = [
   {
     title: 'Space Tourism',
     description: 'A project I created focusing on dynamic handling of the UX/Frontend through Scrimba with React and TailwindCSS.',
-    url: 'https://github.com/aovalles2711',
+    url: "https://main--scrimbaspacerace.netlify.app/",
     image: portfolioImage14,
   },
   {
